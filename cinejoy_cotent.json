@@ -1,0 +1,12 @@
+{
+  "bbb": {
+    "author": "The Blender Project",
+    "description": "Grumpy Bunny is grumpy",
+    "poster": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/images/screenshot1.png",
+    "stream": {
+      "dash": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/BigBuckBunny_master.mpd",
+      "hls": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/BigBuckBunny_master.m3u8"
+    },
+    "title": "Big Buck Bunny"
+  }
+}
