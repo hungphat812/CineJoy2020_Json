@@ -21,6 +21,17 @@
     "title": "Pat Cen",
     "streamType": "application/x-mpegurl"
   },
+  "m3u8": {
+    "author": "M3U8",
+    "description": "CineJoy 2020 Testing by Phat",
+    "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
+    "stream": {
+      "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
+      "hls": "http://asia-vt01.googleapicdn.com/v1.0/st04/56af992164901bb2083b7e04fb480ea8/jJfskVy8MNlr9FVNhXVGGg/c/5/f/33/801/86d2d371e261c335fecc793780133f5c/hls-h264-480p/playlist.m3u8"
+    },
+    "title": "Pat Cen",
+    "streamType": "application/vnd.apple.mpegurl"
+  },
   "imageTest": {
     "author": "Phat Chenh 1",
     "description": "2020 Testing by Phat",
