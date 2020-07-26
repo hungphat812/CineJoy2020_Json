@@ -1,36 +1,48 @@
 {
-  "bbba2": {
+  "mpd": {
     "author": "The Blender Project",
     "description": "Grumpy Bunny is grumpy",
     "poster": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/images/screenshot1.png",
     "stream": {
-      "dash": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/BigBuckBunny_master.mpd",
+      "dash": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
       "hls": "https://storage.googleapis.com/cpe-sample-media/content/BigBuckBunny/BigBuckBunny_master.m3u8"
     },
     "title": "Big Buck Bunny",
     "streamType": "application/dash+xml"
   },
-  "aaac2": {
+  "hls": {
     "author": "Phat Chenh",
     "description": "CineJoy 2020 Testing by Phat",
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
-      "hls": "http://asia-vt02.googleapicdn.com/v1.0/st01/3efc14903cbebf6741268465914457e9/8falXBy1XWDPz_V1fW7GaA/4/f/b/9f/271/4076c224bec1e5212a996f5d2719fbf4/hls-h264-480p/playlist.m3u8"
+      "hls": "https://storage.googleapis.com/cpe-sample-media/content/DesigningForGoogleCast/DesigningForGoogleCast_master.m3u8"
     },
     "title": "Pat Cen",
     "streamType": "application/x-mpegurl"
   },
-  "m3u8881": {
+  "hls1": {
     "author": "M3U8",
     "description": "CineJoy 2020 Testing by Phat",
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
-      "hls": "http://asia-vt01.googleapicdn.com/v1.0/st04/56af992164901bb2083b7e04fb480ea8/jJfskVy8MNlr9FVNhXVGGg/c/5/f/33/801/86d2d371e261c335fecc793780133f5c/hls-h264-480p/playlist.m3u8"
+      "hls": "http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
     },
     "title": "Pat Cen",
     "streamType": "application/x-mpegurl"
+  },
+  "smooth": {
+    "author": "M3U8",
+    "description": "CineJoy 2020 Testing by Phat",
+    "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
+    "stream": {
+      "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
+      "hls": "http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "smooth": "http://playready.directtaps.net/smoothstreaming/SSWSS720H264PR/SuperSpeedway_720.ism/Manifest"
+    },
+    "title": "Pat Cen",
+    "streamType": "application/vnd.ms-sstr+xml"
   },
   "imageTest": {
     "author": "Phat Chenh 1",
