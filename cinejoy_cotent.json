@@ -86,7 +86,7 @@
     "description": "2020 Testing by Hieu 3",
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
-      "mp3": "http://192.168.0.102:6868/nhac.mp3",
+      "mp3": "http://192.168.0.113:4200/music.m4a",
       "mp4": "http://192.168.0.102:6868/feef.mp4",
       "img": "http://192.168.0.102:6868/fefe.png",
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
