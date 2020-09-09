@@ -73,7 +73,7 @@
     "description": "2020 Testing by Hieu 4",
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
-      "mp4": "http://192.168.0.102:6868/feef.mp4",
+      "mp4": "http://192.168.0.116:4200/video.mp4",
       "img": "http://192.168.0.102:6868/fefe.png",
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
       "hls": "http://asia-vt02.googleapicdn.com/v1.0/st01/3efc14903cbebf6741268465914457e9/8falXBy1XWDPz_V1fW7GaA/4/f/b/9f/271/4076c224bec1e5212a996f5d2719fbf4/hls-h264-480p/playlist.m3u8"
