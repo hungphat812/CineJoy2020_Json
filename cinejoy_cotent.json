@@ -10,13 +10,13 @@
     "title": "Big Buck Bunny",
     "streamType": "application/dash+xml"
   },
-  "hls": {
+  "hls1": {
     "author": "Phat Chenh",
     "description": "CineJoy 2020 Testing by Phat",
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
-      "hls": "https://storage.googleapis.com/cpe-sample-media/content/DesigningForGoogleCast/DesigningForGoogleCast_master.m3u8"
+      "hls": "http://asia-vt01.googleapicdn.com/v1.0/st04/fbf4516233ea736a167e4dee473c9e6a/wQpOQ7imeFrdMxR11IcoIQ/5/b/a/9e/63f/e8d201cdd5bdca4f66550a0963f9eab5/hls-h264-480p/playlist.m3u8"
     },
     "title": "Pat Cen",
     "streamType": "application/x-mpegurl"
