@@ -27,7 +27,7 @@
     "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
     "stream": {
       "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
-      "hls": "http://devimages.apple.com.edgekey.net/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+      "hls": "http://asia-vt01.googleapicdn.com/v1.0/st01/2cde4339f96dcf4a2597e2ff2becf9df/kYL1zCpt4YdrvM5qZm547Q/1/0/2/53/7e8/6660ffc321c3b0f21276777b7e853201/hls-h264-480p/playlist.m3u8"
     },
     "title": "Pat Cen",
     "streamType": "application/x-mpegurl"
