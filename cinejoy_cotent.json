@@ -10,6 +10,17 @@
     "title": "Big Buck Bunny",
     "streamType": "application/dash+xml"
   },
+  "hlsdefault": {
+    "author": "hls https",
+    "description": "CineJoy 20233333330 Testing by Phat",
+    "poster": "https://sohanews.sohacdn.com/thumb_w/660/2019/12/28/10-1577522817060256349333-crop-1577522823202870841497.jpg",
+    "stream": {
+      "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/BigBuckBunny.mp4",
+      "hls": "https://storage.googleapis.com/cpe-sample-media/content/DesigningForGoogleCast/DesigningForGoogleCast_master.m3u8"
+    },
+    "title": "hls https",
+    "streamType": "application/x-mpegurl"
+  },
   "hls1": {
     "author": "Phat Chenh 222223",
     "description": "CineJoy 20233333330 Testing by Phat",
